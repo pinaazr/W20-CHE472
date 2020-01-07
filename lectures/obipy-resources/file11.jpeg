@@ -1,0 +1,6 @@
+# Out[12]:
+#+BEGIN_EXAMPLE
+  [<matplotlib.lines.Line2D at 0x107478710>,
+  <matplotlib.lines.Line2D at 0x107c08050>]
+#+END_EXAMPLE
+[[file:./obipy-resources/nCEll2.png]]
